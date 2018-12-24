@@ -1,2 +1,2 @@
-# G Rest Api Example
+# Go Rest Api Example
 This is a very simple Go api rest example.
